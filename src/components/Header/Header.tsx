@@ -10,7 +10,7 @@ export function Header() {
                 <div>
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <Link to="/GreenBank/" className="nav-link">Home</Link>
+                            <Link to="/GreenBank/" className="nav-link">Accueil</Link>
                         </li>
                         <li className="nav-item">
                             <Link to="/GreenBank/contexte" className="nav-link">Contexte</Link>
